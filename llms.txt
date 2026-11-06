@@ -26,6 +26,9 @@
 - [Affordable Movers Austin Homeowners Can Consider](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/affordable-movers-austin/): Compare affordable movers Austin homeowners can consider, plan your Austin move with Mountain Movers, and call today to discuss home or business moving help.
 - [Mover Austin Residents Can Call for Moving Help](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/mover-austin/): Find a mover Austin residents can call for household or business moving help in Austin. Talk with Mountain Movers today to plan the support your move needs.
 
+## Newsroom
+- [Mountain Movers Shares Austin Moving Guide in Multiple Formats](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/news/2026-11-06-mountain-movers-shares-austin-moving-guide-in/): Mountain Movers released a guide for people considering Austin movers, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Austin Movers in Texas](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/): Get help with residential, commercial, local, and long-distance moves from a team serving Austin. Call +1512-690-8882.
 - [About Mountain Movers in Austin](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/about/): About Mountain Movers, Austin.
@@ -33,4 +36,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/mountain-movers-austin-2d48c3/news/rss.xml)
 - [Main resource site](https://mountain-movers-austin-guide.localwebsites.chatgpt.site)

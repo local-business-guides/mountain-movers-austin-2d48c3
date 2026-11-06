@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/mountain-movers-austin-2d48c3/sitemap.xml
+Sitemap: https://local-business-guides.github.io/mountain-movers-austin-2d48c3/news-sitemap.xml
